@@ -76,6 +76,7 @@
   font-size: clamp(1.35rem, 4.5vw, 1.875rem);
   font-weight: 700;
   line-height: 1.2;
+  letter-spacing: 0.06em;
   color: var(--color-white);
   text-align: center;
 }
